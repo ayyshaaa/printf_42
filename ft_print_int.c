@@ -6,13 +6,11 @@
 /*   By: aistierl <aistierl@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/12 18:02:58 by aistierl          #+#    #+#             */
-/*   Updated: 2024/06/20 16:01:33 by aistierl         ###   ########.fr       */
+/*   Updated: 2024/06/21 18:34:29 by aistierl         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "ft_printf.h"
-#include <limits.h>
-#include <unistd.h>
 
 int	ft_int_len(int n)
 {

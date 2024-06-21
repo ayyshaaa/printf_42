@@ -6,12 +6,11 @@
 /*   By: aistierl <aistierl@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/13 17:23:29 by aistierl          #+#    #+#             */
-/*   Updated: 2024/06/18 15:59:09 by aistierl         ###   ########.fr       */
+/*   Updated: 2024/06/21 18:34:54 by aistierl         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "ft_printf.h"
-#include <unistd.h>
 
 int	ft_print_char(unsigned int c)
 {

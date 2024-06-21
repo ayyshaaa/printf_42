@@ -6,12 +6,11 @@
 /*   By: aistierl <aistierl@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/13 17:43:10 by aistierl          #+#    #+#             */
-/*   Updated: 2024/06/17 14:45:21 by aistierl         ###   ########.fr       */
+/*   Updated: 2024/06/21 18:34:13 by aistierl         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "ft_printf.h"
-#include <unistd.h>
 
 int	ft_print_string(const char *s)
 {

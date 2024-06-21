@@ -6,12 +6,11 @@
 /*   By: aistierl <aistierl@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/13 18:08:01 by aistierl          #+#    #+#             */
-/*   Updated: 2024/06/17 18:15:19 by aistierl         ###   ########.fr       */
+/*   Updated: 2024/06/21 18:34:21 by aistierl         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "ft_printf.h"
-#include <unistd.h>
 
 int	ft_hexa_lenp(unsigned long nb)
 {

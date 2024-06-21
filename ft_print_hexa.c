@@ -6,14 +6,11 @@
 /*   By: aistierl <aistierl@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/13 13:46:39 by aistierl          #+#    #+#             */
-/*   Updated: 2024/06/20 15:52:30 by aistierl         ###   ########.fr       */
+/*   Updated: 2024/06/21 18:34:48 by aistierl         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "ft_printf.h"
-#include <limits.h>
-#include <unistd.h>
-#include <stdint.h>
 
 int	ft_hexa_len(unsigned int nb)
 {

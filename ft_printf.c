@@ -6,14 +6,11 @@
 /*   By: aistierl <aistierl@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/11 17:42:06 by aistierl          #+#    #+#             */
-/*   Updated: 2024/06/20 17:37:05 by aistierl         ###   ########.fr       */
+/*   Updated: 2024/06/21 18:33:38 by aistierl         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "ft_printf.h"
-#include <limits.h>
-#include <stdarg.h>
-#include <stdio.h>
 
 int	ft_comp_set(char c, const char *set)
 {

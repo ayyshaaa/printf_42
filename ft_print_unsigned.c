@@ -6,13 +6,11 @@
 /*   By: aistierl <aistierl@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/12 17:04:04 by aistierl          #+#    #+#             */
-/*   Updated: 2024/06/17 17:29:51 by aistierl         ###   ########.fr       */
+/*   Updated: 2024/06/21 18:33:56 by aistierl         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "ft_printf.h"
-#include <limits.h>
-#include <unistd.h>
 
 int	ft_unsigned_len(unsigned int n)
 {
